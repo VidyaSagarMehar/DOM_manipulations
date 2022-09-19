@@ -13,7 +13,7 @@ Output -
 
 Changes "DEV Community 👩‍💻👨‍💻 is a community of 925,602 amazing developers" to Name-  "Vidya Sagar Mehar" passion = " I write code".
 
-![](./assignment01/de.toOutput.png)
+![](./assignment_images/de.toOutput.png)
 
 ### 2. Website Name: [Apple](https://support.apple.com/en-in)
 
