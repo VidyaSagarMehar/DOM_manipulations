@@ -268,4 +268,5 @@ Output-
 document.querySelector(".section-box .desc").style.color = "orange";
 ```
 Output-
+
 ![](./assignment_images/20oppo.png)
