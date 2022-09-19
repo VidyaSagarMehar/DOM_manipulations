@@ -13,7 +13,7 @@ Output -
 
 Changes "DEV Community 👩‍💻👨‍💻 is a community of 925,602 amazing developers" to Name-  "Vidya Sagar Mehar" passion = " I write code".
 
-![](./assignment_images/de.toOutput.png)
+![](./assignment_images/01DevTo.png)
 
 ### 2. Website Name: [Apple](https://support.apple.com/en-in)
 
@@ -49,7 +49,7 @@ Output -
 
 Added a new FAQ 
 
-![](./assignment01/youtubeOutput.png)
+![](./assignment_images/03youtubeOutput.png)
 
 
 
@@ -64,7 +64,7 @@ Output -
 
 Changed phone no. to my Mobile no.
 
-![](./assignment01/4oneplus.png)
+![](./assignment_images/4oneplus.png)
 
 ### 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/) 
 
@@ -81,7 +81,7 @@ document.getElementById("checkO").innerText = "Check Out"
 Output -
 Changes button from "Buy now" to "Check Out" 
 
-![](./assignment01/05samsung.png)
+![](./assignment_images/05samsung.png)
 
 
 ###  6. Webiste Name: [Adidas](https://www.adidas.co.in/)
@@ -99,7 +99,7 @@ Output -
 
 Background colour changed with "Red".
 
-![](./assignment01/06search.png)
+![](./assignment_images/06search.png)
 
 ###  7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
@@ -119,7 +119,7 @@ Output -
 
 Doing search operation with dom manupulation.
 
-![](./assignment01/07MDN.png)
+![](./assignment_images/07MDN.png)
 
 ###  8. Webiste Name: [Google](https://www.google.com/)
 
@@ -140,7 +140,7 @@ Output -
 Some languages are removed.
 
 
-![](assignment01/08google.png)
+![](./assignment_images/08google.png)
 
 ###   9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
@@ -153,7 +153,7 @@ document.querySelector(".content-width-extra-large .display-heading-1").style.co
 
 Output -
 
-![](./assignment01/09codewars.png)
+![](./assignment_images/09codewars.png)
 
 ### 10.  Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
@@ -168,7 +168,7 @@ document.addEventListener("click", changeBG)
 
 Output -
 
-![](./assignment01/10codeCamp.png)
+![](./assignment_images/10codeCamp.png)
 
 ###   11. Webiste Name: [realme](https://www.realme.com/in/)
 
@@ -179,7 +179,7 @@ document.querySelector(".wrapper .gtag .icon-logo ").style.backgroundImage = "ur
 
 Output -
 
-![](./assignment01/11realme.png)
+![](./assignment_images/11realme.png)
 
 
 ###   12. Webiste Name: [Github](https://github.com/)
@@ -191,7 +191,7 @@ document.querySelector(".js-repos-container h2 a").style.backgroundColor = "blue
 
 Output -
 
-![](./assignment01/12github.png)
+![](./assignment_images/12github.png)
 
 
 ###   13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
@@ -204,7 +204,7 @@ document.querySelector(".fl-module ").innerHTML = "JSBOOTCAMP"
 
 Output -
 
-![](./assignment01/13hackerrank.png)
+![](./assignment_images/13hackerrank.png)
 
 
 ### 14. Webiste Name: [Asus](https://www.asus.com/in/)
@@ -217,7 +217,7 @@ document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "100px";
 
 Output - 
 
-![](./assignment01/14Asus.png)
+![](./assignment_images/14Asus.png)
 
 ### 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
@@ -226,7 +226,7 @@ document.querySelector(".ps-title a").style.textAlign = "right";
 ```
 Output-
 
-![](./assignment01/15dell.png)
+![](./assignment_images/15dell.png)
 
 ### 16. Webiste Name: [Vercel](https://vercel.com/)
 
@@ -235,7 +235,7 @@ document.querySelector(".section-title_title__VEDfK").innerHTML = "Start with Sc
 ```
 Output-
 
-![](./assignment01/16versel.png)
+![](./assignment_images/16versel.png)
 
 ### 17.Webiste Name: [Sony](https://www.sony.co.in/)
 
@@ -243,7 +243,7 @@ Output-
 document.querySelector(".btn-container a").innerHTML = new Date();
 ```
 Output-
-![](./assignment01/17sony.png)
+![](./assignment_images/17sony.png)
 
 ### 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
@@ -251,7 +251,7 @@ Output-
 document.querySelector(".p-footer").style.backgroundColor = "orange";
 ```
 Output-
-![](./assignment01/18philips.png)
+![](./assignment_images/18philips.png)
 
 
 ### 19. Webiste Name: [Canon](https://in.canon/)
@@ -268,4 +268,4 @@ Output-
 document.querySelector(".section-box .desc").style.color = "orange";
 ```
 Output-
-![](./assignment01/20oppo.png)
+![](./assignment_images/20oppo.png)
